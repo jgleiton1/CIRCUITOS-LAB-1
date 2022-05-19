@@ -15,13 +15,13 @@
   
 3. Requisitos previos:  
   
-![image](https://user-images.githubusercontent.com/94011974/141410792-5eebb289-bdde-408f-9be0-f6f2b078bc22.png)
+![image](https://user-images.githubusercontent.com/94011974/169407513-59f2d2cd-f38d-43ba-b715-d83120a8d3c4.png)
 
-![image](https://user-images.githubusercontent.com/94011974/141410838-e2776d94-91a7-4632-a3c1-0581e8aa9b4f.png)
+![image](https://user-images.githubusercontent.com/94011974/169407541-bf0aec9d-df2b-43c8-b25c-dde7429270ce.png)
 
-![image](https://user-images.githubusercontent.com/94011974/141410868-b62e60ce-455f-453c-90a4-17ac90db995e.png)
+![image](https://user-images.githubusercontent.com/94011974/169407575-ebe6474a-ccd3-49c0-a783-4bbbb01e24ae.png)
 
-![image](https://user-images.githubusercontent.com/94011974/141412885-4e2dd420-bcb4-42de-a38f-08eae6729fbc.png)
+![image](https://user-images.githubusercontent.com/94011974/169407603-08eea5c4-3cb7-4266-b169-d3563254840d.png)
 
 4. Material y equipo requerido:
 
@@ -31,11 +31,11 @@
 
 Resultados obtenidos de voltaje y corriente en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/94011974/141417623-d2aa758d-98c4-4054-b6b6-2dbe6988e1a3.png)
+![image](https://user-images.githubusercontent.com/94011974/169407649-e7dcd41f-31d3-4fe3-9b77-eb9420f36105.png)
 
 Verificacion de la ley de Kirchhoff de voltajes.
 
-![image](https://user-images.githubusercontent.com/94011974/141417643-e6a976be-fcc9-4fa3-9558-74dad44f213d.png)
+![image](https://user-images.githubusercontent.com/94011974/169407673-a7ecb0dd-8939-421d-a0ff-73160e88e43b.png)
 
 En la trayectoria 1 el voltaje total es 10V luego cirula hasta la primera resistencia donde sufre una caída de tensión a 2.05V, luego sigue circulando hasta la segunda resistencia donde sufre uuna caída de tensión a 4.25V y por ultimo circula por la quinta resistencia donde sufre una caída de tensión a 3.69V y concluye su circulación el la fuente de voltaje.
 
@@ -45,7 +45,7 @@ En la trayetoria 3 el voltaje que ingresa 10V, este circula por la primera resis
 
 Verificaciòn de la ley de Kirchhoff de corrientes.
 
-![image](https://user-images.githubusercontent.com/94011974/141417670-017820f1-8604-47d9-ae7d-9bc81329e073.png)
+![image](https://user-images.githubusercontent.com/94011974/169407703-1328eacd-033b-4ed9-bdab-c6bc553e67aa.png)
 
 En el nodo 1 la corriente que ingresa a la primera resistencia es 2.05mA y la que sale es 2.05mA, en el nodo 2 la corriente que ingresa es 2.05mA y las que salen son 1.09mA y 0.96mA, en el nodo 3 la corriente que ingresa a la tercera resistencia una corriente de 0.96mA y salen 0.96mA en la cuarta resistencia, es el mismo valor porque se encuentran en serie. En el nodo 4 las corrientes que ingresan son 1.09mA de la segunda resistencia y 0.96mA de la cuarta resistecia saliendo, de este nodo, 2.05mA.En el nodo 5 la corriente que ingresa a la quinta resistencia es de 2.05mA y la que sale es de 2.05mA coincidiendo con el valor de la corriente que ingresa al primer nodo, al principio del circuito.
 
