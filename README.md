@@ -37,17 +37,25 @@ Verificacion de la ley de Kirchhoff de voltajes.
 
 ![image](https://user-images.githubusercontent.com/94011974/169407673-a7ecb0dd-8939-421d-a0ff-73160e88e43b.png)
 
-En la trayectoria 1 el voltaje total es 10V luego cirula hasta la primera resistencia donde sufre una caída de tensión a 2.05V, luego sigue circulando hasta la segunda resistencia donde sufre uuna caída de tensión a 4.25V y por ultimo circula por la quinta resistencia donde sufre una caída de tensión a 3.69V y concluye su circulación el la fuente de voltaje.
+En la trayectoria 1 el voltaje total es 5 V luego cirula hasta la primera resistencia donde sufre una caída de tensión a 1.03 V, luego sigue circulando hasta la segunda resistencia donde sufre uuna caída de tensión a 2.12 V y por ultimo circula por la quinta resistencia donde sufre una caída de tensión a 1.85 V y concluye su circulación en la fuente de voltaje.
 
-En la trayectoria 2 el voltaje total es de 4.26V que es la caída de voltaje de la segunda resistencia, este circula por la tercera resistencia donde sufre una caída de tensión a 2.11V, luego continua por la cuarta resistencia donde sufre una caída de tensión a 2.11V y regresa al voltaje total que es el de la segunda resistencia.
+En la trayectoria 2 el voltaje total es de 2.12 V que es la caída de voltaje de la segunda resistencia, este circula por la tercera resistencia donde sufre una caída de tensión a 1.06 V, luego continua por la cuarta resistencia donde sufre una caída de tensión a 1.06 V y regresa al voltaje total que es el de la segunda resistencia.
 
-En la trayetoria 3 el voltaje que ingresa 10V, este circula por la primera resistencia donde sufre una caída de tensión a 2.05V, continua por la tercera resistencia sufriendo una caída de tensión de 2.11V, continua por la cuarta resistencia donde sufre una caída de tensión de 2.11V, continua por la quinta resistencia sufriendo una caída de tensión a 3.69V y termina su circulación en la fuente de voltaje.
+En la trayetoria 3 el voltaje que ingresa 5 V, este circula por la primera resistencia donde sufre una caída de tensión a 1.03 V, continua por la tercera resistencia sufriendo una caída de tensión de 1.06 V, continua por la cuarta resistencia donde sufre una caída de tensión de 1.06 V, continua por la quinta resistencia sufriendo una caída de tensión a 1.85 V y termina su circulación en la fuente de voltaje.
 
 Verificaciòn de la ley de Kirchhoff de corrientes.
 
 ![image](https://user-images.githubusercontent.com/94011974/169407703-1328eacd-033b-4ed9-bdab-c6bc553e67aa.png)
 
-En el nodo 1 la corriente que ingresa a la primera resistencia es 2.05mA y la que sale es 2.05mA, en el nodo 2 la corriente que ingresa es 2.05mA y las que salen son 1.09mA y 0.96mA, en el nodo 3 la corriente que ingresa a la tercera resistencia una corriente de 0.96mA y salen 0.96mA en la cuarta resistencia, es el mismo valor porque se encuentran en serie. En el nodo 4 las corrientes que ingresan son 1.09mA de la segunda resistencia y 0.96mA de la cuarta resistecia saliendo, de este nodo, 2.05mA.En el nodo 5 la corriente que ingresa a la quinta resistencia es de 2.05mA y la que sale es de 2.05mA coincidiendo con el valor de la corriente que ingresa al primer nodo, al principio del circuito.
+En el nodo 1 la corriente que ingresa a la primera resistencia es 1.03 mA y la que sale es 1.03 mA.
+
+En el nodo 2 la corriente que ingresa es 1.03 mA y las que salen son 0.54 mA y 0.48 mA.
+
+En el nodo 3 la corriente que ingresa a la tercera resistencia una corriente de 0.48 mA y salen 0.48 mA, en la cuarta resistencia, es el mismo valor porque se encuentran en serie. 
+
+En el nodo 4 las corrientes que ingresan son 0.54 mA de la segunda resistencia y 0.48 mA de la cuarta resistecia saliendo, de este nodo, 1.03mA
+
+En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la que sale es de 1.03 mA coincidiendo con el valor de la corriente que ingresa al primer nodo, al principio del circuito.
 
 6.  Video
 
