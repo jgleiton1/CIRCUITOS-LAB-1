@@ -31,7 +31,17 @@ Demostrar el cumplimiento de la Ley de Kirchhoff de Voltajes y la Ley de Kirchho
 
 ![WhatsApp Image 2022-05-19 at 8 12 44 PM](https://user-images.githubusercontent.com/94011974/169429336-30002f06-3570-4ed3-b0e1-dde6f7c758bc.jpeg)  
 
-3. Requisitos previos:  
+3. Requisitos previos:
+
+Trayectorias
+
+ ![WhatsApp Image 2022-05-19 at 7 56 08 PM](https://user-images.githubusercontent.com/94011974/169439322-c48ba8bb-8f0e-41d1-bb35-6b7660fdaec8.jpeg)
+
+![WhatsApp Image 2022-05-19 at 7 56 42 PM](https://user-images.githubusercontent.com/94011974/169439346-b385e4cd-f70d-4930-b701-e1383bbb0a4c.jpeg)
+
+Nodos
+
+![WhatsApp Image 2022-05-19 at 7 59 15 PM](https://user-images.githubusercontent.com/94011974/169439614-86212295-3541-4264-88ab-eeed376bb220.jpeg)
   
 ![image](https://user-images.githubusercontent.com/94011974/169407513-59f2d2cd-f38d-43ba-b715-d83120a8d3c4.png)
 
