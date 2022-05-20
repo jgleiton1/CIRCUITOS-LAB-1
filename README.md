@@ -11,7 +11,7 @@ Demostrar el cumplimiento de la Ley de Kirchhoff de Voltajes y la Ley de Kirchho
 
 •	Calcular el voltaje y corriente de los circuitos, con ayuda del simulador de Tinkercad y ecuaciones algebraicas
 
-•	Justificar los resultados obtenidos, mediante la presentación de un video.
+•	Justificar los resultados obtenidos, mediante la presentación de un video, para aplicar lo aprendido.
 
 2. Marco Teórico
 
@@ -81,9 +81,6 @@ En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la
 
 7. Conclusiones
 
-
-
-8. Recomendaciones: 
 
 
 9. Bibliografía
