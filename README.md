@@ -42,12 +42,20 @@ Trayectorias
 Nodos
 
 ![WhatsApp Image 2022-05-19 at 7 59 15 PM](https://user-images.githubusercontent.com/94011974/169439614-86212295-3541-4264-88ab-eeed376bb220.jpeg)
-  
+ 
+Circuito armado
+
 ![image](https://user-images.githubusercontent.com/94011974/169407513-59f2d2cd-f38d-43ba-b715-d83120a8d3c4.png)
+
+Medición de las resistencias
 
 ![image](https://user-images.githubusercontent.com/94011974/169407541-bf0aec9d-df2b-43c8-b25c-dde7429270ce.png)
 
+Medición de los voltajes
+
 ![image](https://user-images.githubusercontent.com/94011974/169407575-ebe6474a-ccd3-49c0-a783-4bbbb01e24ae.png)
+
+Medición de la corriente
 
 ![image](https://user-images.githubusercontent.com/94011974/169407603-08eea5c4-3cb7-4266-b169-d3563254840d.png)
 
