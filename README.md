@@ -95,11 +95,15 @@ En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la
 
 6.  Video
 
-
+https://youtu.be/jUFsQ1vVrHo
 
 7. Conclusiones
 
+•	La práctica demuestra el uso de las leyes de Kirchhoff en el análisis de los circuitos eléctricos, según las bibliografías investigadas, la Ley de Kirchhoff de Corrientes implica que las corrientes que entran a un nodo son positivas y negativas, siempre que salgan con el signo opuesto de las corrientes que entran, mientras que la Ley de Kirchhoff de Voltajes se basa en que la suma de la energía producida dentro de un sistema es contante, sus tensiones se pueden considerar positivas o negativas, según la polaridad que se asigne a cada una. 
 
+•	Usando el simulador de Tinkercad, se armó un circuito, en el cual se usó para medir el voltaje y la corriente, la medición del voltaje de cada elemento del circuito se realiza en paralelo, mientras que la medición de la corriente se realiza en serie. Mientras que para obtener el valor calculado se utilizan ecuaciones algebraicas, en la tabla de valores se puede observar la variación de 0,01 con respecto al valor medido y el valor calculado. 
+
+•	En el video realizado se explica cómo obtener las medidas y hacer cálculos, por medio de las tablas se verifica que los valores medidos y calculados cumplen con la primera y segunda ley de Kirchhoff. En la ley de voltajes de Kirchhoff, se comprueba que la suma algebraica de las tensionas da cero, por lo cual se verifica que cumple con esta ley, ocurriendo lo mismo con ley de corrientes de Kirchhoff que establece que la suma algebraica de las corrientes es 0, lo cual también se cumple. 
 
 9. Bibliografía
 
