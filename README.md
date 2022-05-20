@@ -68,8 +68,11 @@ En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la
 8. Recomendaciones: 
 
 
+9. Bibliografía
 
-9. Bibliografía: 
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
+10. Rubrica
+
+![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
 
