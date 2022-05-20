@@ -74,5 +74,6 @@ Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https
 
 10. Rubrica
 
-![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
+![image](https://user-images.githubusercontent.com/94011974/169427061-265123c2-f557-4b9a-9ef6-5a545e89aff2.png)
+
 
