@@ -3,16 +3,32 @@
 
   1.1. Objetivo General:
   
-  
+Demostrar el cumplimiento de la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, mediante el análisis de los circuitos eléctricos y la práctica realizada, para afianzar los conocimientos adquiridos en clase.
   
   1.2. Objetivos Específicos: 
   
-  
-  
+•	Resumir que son la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, por medio de una búsqueda bibliográfica.
+•	Calcular el voltaje y corriente de los circuitos, con ayuda del simulador de Tinkercad y ecuaciones algebraicas
+•	Justificar los resultados obtenidos, mediante la presentación de un video.
+
 2. Marco Teórico
 
+![WhatsApp Image 2022-05-19 at 8 10 07 PM (1)](https://user-images.githubusercontent.com/94011974/169429189-edda3e25-799a-4709-951a-da05cb9a91da.jpeg)
 
-  
+![WhatsApp Image 2022-05-19 at 8 10 19 PM](https://user-images.githubusercontent.com/94011974/169429203-7fe27532-f615-4428-8aab-fcc888b864a3.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 10 48 PM](https://user-images.githubusercontent.com/94011974/169429220-3b600736-614c-4109-abda-298d0d503940.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 11 04 PM](https://user-images.githubusercontent.com/94011974/169429233-22ad6e88-1f5a-4474-8e87-d0155d33afec.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 11 35 PM](https://user-images.githubusercontent.com/94011974/169429244-1f9cf30d-eb3d-4f7f-b13d-3bed78af827a.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 12 08 PM](https://user-images.githubusercontent.com/94011974/169429315-bd7227f0-d67e-4e6d-a510-8c951a194af5.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 12 27 PM](https://user-images.githubusercontent.com/94011974/169429319-8df10f70-3d41-45f7-9255-830c6cec6886.jpeg)
+
+![WhatsApp Image 2022-05-19 at 8 12 44 PM](https://user-images.githubusercontent.com/94011974/169429336-30002f06-3570-4ed3-b0e1-dde6f7c758bc.jpeg)  
+
 3. Requisitos previos:  
   
 ![image](https://user-images.githubusercontent.com/94011974/169407513-59f2d2cd-f38d-43ba-b715-d83120a8d3c4.png)
