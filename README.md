@@ -8,7 +8,9 @@ Demostrar el cumplimiento de la Ley de Kirchhoff de Voltajes y la Ley de Kirchho
   1.2. Objetivos Específicos: 
   
 •	Resumir que son la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes, por medio de una búsqueda bibliográfica.
+
 •	Calcular el voltaje y corriente de los circuitos, con ayuda del simulador de Tinkercad y ecuaciones algebraicas
+
 •	Justificar los resultados obtenidos, mediante la presentación de un video.
 
 2. Marco Teórico
