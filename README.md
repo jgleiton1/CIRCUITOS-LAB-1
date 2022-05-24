@@ -101,6 +101,36 @@ Error % = ((1.02 – 1.03)/(1.02))*100
 
 Error % = 0.9 %
 
+Error % = ((0 – 0)/(0))*100
+
+Error % = no existe
+
+Error % = ((0.01 – 0)/(0.01))*100
+
+Error % = 1%
+
+Error % = ((0.04 – 0)/(0.04))*100
+
+Error % = 1%
+
+Error % = ((1.02 – 1.03)/(1.02))*100
+
+Error % = 0.9 %
+
+Error % = ((0 – 0)/(0))*100
+
+Error % = no existe
+
+Error % = ((0.01 – 0)/(0.01))*100
+
+Error % = 1%
+
+Error % = ((0.04 – 0)/(0.04))*100
+
+Error % = 1%
+
+Se obtuvo el error porcentual entre el valor calculado y medido del menos del 1 %
+
 7.  Video
 
 https://youtu.be/jUFsQ1vVrHo
