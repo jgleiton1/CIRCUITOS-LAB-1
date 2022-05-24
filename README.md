@@ -93,11 +93,18 @@ En el nodo 4 las corrientes que ingresan son 0.54 mA de la segunda resistencia y
 
 En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la que sale es de 1.03 mA coincidiendo con el valor de la corriente que ingresa al primer nodo, al principio del circuito.
 
-6.  Video
+6. Cálculo de error
+
+https://github.com/jgleiton1/CIRCUITOS-LAB-1/edit/main/README.md
+
+Error % = ((1.02 – 1.03)/(1.02))*100
+Error % = 0.9 %
+
+7.  Video
 
 https://youtu.be/jUFsQ1vVrHo
 
-7. Conclusiones
+8. Conclusiones
 
 •	La práctica demuestra el uso de las leyes de Kirchhoff en el análisis de los circuitos eléctricos, según las bibliografías investigadas, la Ley de Kirchhoff de Corrientes implica que las corrientes que entran a un nodo son positivas y negativas, siempre que salgan con el signo opuesto de las corrientes que entran, mientras que la Ley de Kirchhoff de Voltajes se basa en que la suma de la energía producida dentro de un sistema es contante, sus tensiones se pueden considerar positivas o negativas, según la polaridad que se asigne a cada una. 
 
