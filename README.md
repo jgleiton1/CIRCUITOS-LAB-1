@@ -98,6 +98,7 @@ En el nodo 5 la corriente que ingresa a la quinta resistencia es de 1.03 mA y la
 https://github.com/jgleiton1/CIRCUITOS-LAB-1/edit/main/README.md
 
 Error % = ((1.02 – 1.03)/(1.02))*100
+
 Error % = 0.9 %
 
 7.  Video
